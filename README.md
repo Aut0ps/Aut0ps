@@ -1,5 +1,5 @@
 
-<h1 align="center">INTRODUCING <img src=""></h1>
+<h1 align="center"><img src="https://github.com/Aut0ps/Aut0ps/blob/main/main2.png"></h1>
 
 <!---STARTING HEADLINE--->
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Explore+the+Endless+Possibilities+with+AutOps;With+Automation+%26+Innovation%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
@@ -7,7 +7,7 @@
 <!---STARTING LOGOS--->
 <h3 align="center">Aut0ps USED TOOLS</h3>
 <p align="center"> 
-<a href="https://aws.amazon.com/" target="_blank" > <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="40" /> </a>
+<a href="https://aws.amazon.com/" target="_blank" > <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="40" /> </a> 
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" > <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="40" /> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
